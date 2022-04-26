@@ -5,10 +5,12 @@ Dieses Repository enthält den HTML- und JavaScript-Code für die Einkaufsliste,
 Die HTML-Entwicklungsschritte sind in den Dateien "html1.html" und "html2.html" enthalten.
 Die HTML-Aufgaben befinden sich hier:  
 [html1.md](html1/html1.md)  
+[html2.md](html2/html2.md)
 
 
 <details>
-<summary>Endergebnis HTML</summary>
+
+<summary>Endergebnis</summary>
 Das Endergebnis des HTML-Teils kann z.B. so aussehen:
 
 ![HTML Ergebnis](img/Stufe5.png)
@@ -18,3 +20,6 @@ Die JavaScript-Entwicklungsschritte befinden sich in den Verzeichnissen "lektion
 
 Die Aufgabe der Kursteilnehmer ist es, die Einkaufsliste jeden Tag ein wenig weiterzuentwickeln.
 ReadMe geändert.
+
+
+Test Änderung 
