@@ -9,6 +9,7 @@ function aufgabe1() {
     console.debug("Aufgabe 1 ==========================");
 
     //ToDo: füge ab hier Deinen Code ein
+    let laender = ["USA", "Spanien", "Fradnkreich", "Deutschland", "Japan"]
     console.debug(laender)
 }
 
@@ -19,9 +20,9 @@ function aufgabe2() {
     console.debug("Aufgabe 2 ==========================");
 
     let helden = ["Spider-Man", "Batman", "Superman"]
-
+let newheld = helden.push ("Thor")
     //ToDo: füge ab hier Deinen Code in der console.debug ein
-    console.debug("Länge des Arrays", )
+    console.debug("laenge des Arays", helden.length)
 }
 
 /**
